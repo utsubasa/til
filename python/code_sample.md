@@ -7,4 +7,4 @@
         if b % 2 != 0:
         　　even += int(number[b])
         　　print(even)
-          
+# りすとはつうじょうもじれつがたになっている         
