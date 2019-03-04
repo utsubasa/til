@@ -14,6 +14,5 @@
         else:
             print(judge + "!")
 ## 参考
-https://udemy.benesse.co.jp/development/web/python-while.html 
 
 https://hibiki-press.tech/learn_prog/python/count/103
